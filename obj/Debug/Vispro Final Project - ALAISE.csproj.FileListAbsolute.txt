@@ -1,0 +1,31 @@
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\bin\Debug\Vispro Final Project - ALAISE.exe.config
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\bin\Debug\Vispro Final Project - ALAISE.exe
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\bin\Debug\Vispro Final Project - ALAISE.pdb
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\bin\Debug\MySql.Data.dll
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\bin\Debug\MySql.Web.dll
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\bin\Debug\ZstdNet.dll
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\bin\Debug\System.Buffers.dll
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\bin\Debug\MySql.Data.xml
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\bin\Debug\MySql.Web.xml
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\obj\Debug\Vispro Final Project - ALAISE.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\obj\Debug\Vispro Final Project - ALAISE.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\obj\Debug\Vispro Final Project - ALAISE.exe.config
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\obj\Debug\Vispro_Final_Project___ALAISE.dashboard.resources
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\obj\Debug\Vispro_Final_Project___ALAISE.Form1.resources
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\obj\Debug\Vispro_Final_Project___ALAISE.Properties.Resources.resources
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\obj\Debug\Vispro_Final_Project___ALAISE.service.resources
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\obj\Debug\Vispro_Final_Project___ALAISE.serviceadd.resources
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\obj\Debug\Vispro Final Project - ALAISE.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\obj\Debug\Vispro Final Project - ALAISE.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\obj\Debug\Vispro F.DE03357A.Up2Date
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\obj\Debug\Vispro Final Project - ALAISE.exe
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\obj\Debug\Vispro Final Project - ALAISE.pdb
+C:\Users\HP\source\repos\Vispro Final Project - ALAISE\obj\Debug\Vispro_Final_Project___ALAISE.updateservice.resources

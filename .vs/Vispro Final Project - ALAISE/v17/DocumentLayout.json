@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC39C886-C613-4386-BF26-A5762E848D62}|Vispro Final Project - ALAISE.csproj|c:\\users\\hp\\source\\repos\\vispro final project - alaise\\updateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC39C886-C613-4386-BF26-A5762E848D62}|Vispro Final Project - ALAISE.csproj|solutionrelative:updateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC39C886-C613-4386-BF26-A5762E848D62}|Vispro Final Project - ALAISE.csproj|c:\\users\\hp\\source\\repos\\vispro final project - alaise\\updateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC39C886-C613-4386-BF26-A5762E848D62}|Vispro Final Project - ALAISE.csproj|solutionrelative:updateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC39C886-C613-4386-BF26-A5762E848D62}|Vispro Final Project - ALAISE.csproj|C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC39C886-C613-4386-BF26-A5762E848D62}|Vispro Final Project - ALAISE.csproj|solutionrelative:service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC39C886-C613-4386-BF26-A5762E848D62}|Vispro Final Project - ALAISE.csproj|C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\serviceadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC39C886-C613-4386-BF26-A5762E848D62}|Vispro Final Project - ALAISE.csproj|solutionrelative:serviceadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC39C886-C613-4386-BF26-A5762E848D62}|Vispro Final Project - ALAISE.csproj|c:\\users\\hp\\source\\repos\\vispro final project - alaise\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC39C886-C613-4386-BF26-A5762E848D62}|Vispro Final Project - ALAISE.csproj|solutionrelative:service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC39C886-C613-4386-BF26-A5762E848D62}|Vispro Final Project - ALAISE.csproj|C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\serviceadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC39C886-C613-4386-BF26-A5762E848D62}|Vispro Final Project - ALAISE.csproj|solutionrelative:serviceadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC39C886-C613-4386-BF26-A5762E848D62}|Vispro Final Project - ALAISE.csproj|C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC39C886-C613-4386-BF26-A5762E848D62}|Vispro Final Project - ALAISE.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC39C886-C613-4386-BF26-A5762E848D62}|Vispro Final Project - ALAISE.csproj|C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC39C886-C613-4386-BF26-A5762E848D62}|Vispro Final Project - ALAISE.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC39C886-C613-4386-BF26-A5762E848D62}|Vispro Final Project - ALAISE.csproj|C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC39C886-C613-4386-BF26-A5762E848D62}|Vispro Final Project - ALAISE.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC39C886-C613-4386-BF26-A5762E848D62}|Vispro Final Project - ALAISE.csproj|C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC39C886-C613-4386-BF26-A5762E848D62}|Vispro Final Project - ALAISE.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "updateservice.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\updateservice.cs",
+              "RelativeDocumentMoniker": "updateservice.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\updateservice.cs",
+              "RelativeToolTip": "updateservice.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwEAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:50:46.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "updateservice.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\updateservice.cs",
+              "RelativeDocumentMoniker": "updateservice.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\updateservice.cs [Design]",
+              "RelativeToolTip": "updateservice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:45:39.874Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "service.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\service.cs",
+              "RelativeDocumentMoniker": "service.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\service.cs",
+              "RelativeToolTip": "service.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:51:29.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "serviceadd.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\serviceadd.cs",
+              "RelativeDocumentMoniker": "serviceadd.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\serviceadd.cs",
+              "RelativeToolTip": "serviceadd.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwCAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:55:51.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "service.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\service.cs",
+              "RelativeDocumentMoniker": "service.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\service.cs [Design]",
+              "RelativeToolTip": "service.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:44:35.878Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "serviceadd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\serviceadd.cs",
+              "RelativeDocumentMoniker": "serviceadd.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\serviceadd.cs [Design]",
+              "RelativeToolTip": "serviceadd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:53:29.016Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAswDcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:41:43.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:20:56.812Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\dashboard.cs",
+              "RelativeDocumentMoniker": "dashboard.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\dashboard.cs",
+              "RelativeToolTip": "dashboard.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:43:31.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\dashboard.cs",
+              "RelativeDocumentMoniker": "dashboard.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Vispro Final Project - ALAISE\\dashboard.cs [Design]",
+              "RelativeToolTip": "dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:42:56.689Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
