@@ -258,6 +258,7 @@
             this.lblservice.Size = new System.Drawing.Size(68, 20);
             this.lblservice.TabIndex = 101;
             this.lblservice.Text = "Service";
+            this.lblservice.Click += new System.EventHandler(this.lblservice_Click);
             // 
             // lblinventory
             // 
@@ -328,6 +329,7 @@
             // 
             // dataGridView1
             // 
+            this.dataGridView1.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(246)))), ((int)(((byte)(234)))));
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(291, 194);
             this.dataGridView1.Name = "dataGridView1";

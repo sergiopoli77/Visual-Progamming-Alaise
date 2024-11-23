@@ -51,6 +51,7 @@
             this.txtpassword.Name = "txtpassword";
             this.txtpassword.Size = new System.Drawing.Size(351, 23);
             this.txtpassword.TabIndex = 40;
+            this.txtpassword.TextChanged += new System.EventHandler(this.txtpassword_TextChanged);
             // 
             // txtusername
             // 
@@ -61,6 +62,7 @@
             this.txtusername.Name = "txtusername";
             this.txtusername.Size = new System.Drawing.Size(351, 23);
             this.txtusername.TabIndex = 39;
+            this.txtusername.TextChanged += new System.EventHandler(this.txtusername_TextChanged);
             // 
             // lblpassword
             // 
@@ -74,6 +76,7 @@
             this.lblpassword.Size = new System.Drawing.Size(184, 17);
             this.lblpassword.TabIndex = 38;
             this.lblpassword.Text = "i\'ve foregetten my password";
+            this.lblpassword.Click += new System.EventHandler(this.lblpassword_Click);
             // 
             // label3
             // 

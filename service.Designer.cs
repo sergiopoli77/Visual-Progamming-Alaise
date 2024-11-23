@@ -113,6 +113,7 @@
             this.lblbar.Size = new System.Drawing.Size(37, 20);
             this.lblbar.TabIndex = 68;
             this.lblbar.Text = "Bar";
+            this.lblbar.Click += new System.EventHandler(this.lblbar_Click);
             // 
             // lblkitchen
             // 
@@ -125,6 +126,7 @@
             this.lblkitchen.Size = new System.Drawing.Size(69, 20);
             this.lblkitchen.TabIndex = 67;
             this.lblkitchen.Text = "Kitchen";
+            this.lblkitchen.Click += new System.EventHandler(this.lblkitchen_Click);
             // 
             // lblsetting
             // 
@@ -137,6 +139,7 @@
             this.lblsetting.Size = new System.Drawing.Size(110, 20);
             this.lblsetting.TabIndex = 66;
             this.lblsetting.Text = "User Setting";
+            this.lblsetting.Click += new System.EventHandler(this.lblsetting_Click);
             // 
             // lblitemout
             // 
@@ -149,6 +152,7 @@
             this.lblitemout.Size = new System.Drawing.Size(76, 20);
             this.lblitemout.TabIndex = 65;
             this.lblitemout.Text = "Item out";
+            this.lblitemout.Click += new System.EventHandler(this.lblitemout_Click);
             // 
             // lblitemin
             // 
@@ -161,6 +165,7 @@
             this.lblitemin.Size = new System.Drawing.Size(64, 20);
             this.lblitemin.TabIndex = 64;
             this.lblitemin.Text = "Item in";
+            this.lblitemin.Click += new System.EventHandler(this.lblitemin_Click);
             // 
             // lblout
             // 
@@ -186,6 +191,7 @@
             this.lblservice.Size = new System.Drawing.Size(68, 20);
             this.lblservice.TabIndex = 62;
             this.lblservice.Text = "Service";
+            this.lblservice.Click += new System.EventHandler(this.lblservice_Click);
             // 
             // lblinventory
             // 
@@ -235,6 +241,7 @@
             // 
             // dataGridView1
             // 
+            this.dataGridView1.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(246)))), ((int)(((byte)(234)))));
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(291, 194);
             this.dataGridView1.Name = "dataGridView1";

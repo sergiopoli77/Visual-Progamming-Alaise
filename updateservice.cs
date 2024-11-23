@@ -118,6 +118,8 @@ namespace Vispro_Final_Project___ALAISE
                     perintah.Parameters.AddWithValue("@stok", stok);
                     perintah.Parameters.AddWithValue("@id_item_service", id);
 
+                    // Tampilkan query yang akan dieksekusi untuk debugging
+                    MessageBox.Show($"UPDATE tbl_item_service SET nama_item = '{namaItem}', kategori = '{kategori}', stok = {stok} WHERE id_item_service = '{id}'");
                     int rowsAffected = perintah.ExecuteNonQuery();
                     koneksi.Close();
 
@@ -205,6 +207,11 @@ namespace Vispro_Final_Project___ALAISE
             {
                 MessageBox.Show(ex.ToString());
             }
+        }
+
+        private void lblservice_Click(object sender, EventArgs e)
+        {
+
         }
 
         private void updateservice_Load(object sender, EventArgs e)

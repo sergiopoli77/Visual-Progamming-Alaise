@@ -48,6 +48,60 @@ namespace Vispro_Final_Project___ALAISE
             this.Close();
         }
 
+        private void lblkitchen_Click(object sender, EventArgs e)
+        {
+            kitchen Kitchen = new kitchen();
+            Kitchen.Show();
+            this.Close();
+        }
+
+        private void lblkitchens_Click(object sender, EventArgs e)
+        {
+            kitchen Kitchen = new kitchen();
+            Kitchen.Show();
+            this.Close();
+        }
+
+        private void lblbar_Click(object sender, EventArgs e)
+        {
+            bar Bar = new bar();
+            Bar.Show();
+            this.Close();
+        }
+
+        private void lblbars_Click(object sender, EventArgs e)
+        {
+            bar Bar = new bar();
+            Bar.Show();
+            this.Close();
+        }
+
+        private void lbldashboard_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblitemin_Click(object sender, EventArgs e)
+        {
+            itemin itemIn = new itemin();
+            itemIn .Show();
+            this.Close();
+        }
+
+        private void lblitemout_Click(object sender, EventArgs e)
+        {
+            itemout itemOut = new itemout();
+            itemOut.Show();
+            this.Close();
+        }
+
+        private void lblsetting_Click(object sender, EventArgs e)
+        {
+            usersettings userSettings  = new usersettings();
+            userSettings.Show();
+            this.Close();
+        }
+
         private void dashboard_Load(object sender, EventArgs e)
         {
 

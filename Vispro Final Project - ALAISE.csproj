@@ -33,11 +33,17 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
     <Reference Include="MySql.Data, Version=8.0.29.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
     <Reference Include="MySql.Data.EntityFramework, Version=8.0.29.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
     <Reference Include="MySql.Web, Version=8.0.29.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -49,17 +55,89 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="additemin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="additemin.Designer.cs">
+      <DependentUpon>additemin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bar.Designer.cs">
+      <DependentUpon>bar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="baradd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="baradd.Designer.cs">
+      <DependentUpon>baradd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="critemout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="critemout.Designer.cs">
+      <DependentUpon>critemout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrystalReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="dashboard.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="dashboard.Designer.cs">
       <DependentUpon>dashboard.cs</DependentUpon>
     </Compile>
+    <Compile Include="forgetpassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forgetpassword.Designer.cs">
+      <DependentUpon>forgetpassword.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="itemin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="itemin.Designer.cs">
+      <DependentUpon>itemin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="iteminadd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="iteminadd.Designer.cs">
+      <DependentUpon>iteminadd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="itemout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="itemout.Designer.cs">
+      <DependentUpon>itemout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="itemoutadd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="itemoutadd.Designer.cs">
+      <DependentUpon>itemoutadd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kitchen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kitchen.Designer.cs">
+      <DependentUpon>kitchen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kitchenadd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kitchenadd.Designer.cs">
+      <DependentUpon>kitchenadd.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -75,17 +153,69 @@
     <Compile Include="serviceadd.Designer.cs">
       <DependentUpon>serviceadd.cs</DependentUpon>
     </Compile>
+    <Compile Include="updatebar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updatebar.Designer.cs">
+      <DependentUpon>updatebar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updatekitchen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updatekitchen.Designer.cs">
+      <DependentUpon>updatekitchen.cs</DependentUpon>
+    </Compile>
     <Compile Include="updateservice.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="updateservice.Designer.cs">
       <DependentUpon>updateservice.cs</DependentUpon>
     </Compile>
+    <Compile Include="usersettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="usersettings.Designer.cs">
+      <DependentUpon>usersettings.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="bar.resx">
+      <DependentUpon>bar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="baradd.resx">
+      <DependentUpon>baradd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="critemout.resx">
+      <DependentUpon>critemout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="dashboard.resx">
       <DependentUpon>dashboard.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="forgetpassword.resx">
+      <DependentUpon>forgetpassword.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="itemin.resx">
+      <DependentUpon>itemin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="iteminadd.resx">
+      <DependentUpon>iteminadd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="itemout.resx">
+      <DependentUpon>itemout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="itemoutadd.resx">
+      <DependentUpon>itemoutadd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitchen.resx">
+      <DependentUpon>kitchen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitchenadd.resx">
+      <DependentUpon>kitchenadd.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -102,8 +232,17 @@
     <EmbeddedResource Include="serviceadd.resx">
       <DependentUpon>serviceadd.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="updatebar.resx">
+      <DependentUpon>updatebar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updatekitchen.resx">
+      <DependentUpon>updatekitchen.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="updateservice.resx">
       <DependentUpon>updateservice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usersettings.resx">
+      <DependentUpon>usersettings.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -117,6 +256,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

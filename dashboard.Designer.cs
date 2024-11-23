@@ -56,6 +56,7 @@
             this.lblbar.Size = new System.Drawing.Size(37, 20);
             this.lblbar.TabIndex = 57;
             this.lblbar.Text = "Bar";
+            this.lblbar.Click += new System.EventHandler(this.lblbar_Click);
             // 
             // lblkitchen
             // 
@@ -68,6 +69,7 @@
             this.lblkitchen.Size = new System.Drawing.Size(69, 20);
             this.lblkitchen.TabIndex = 56;
             this.lblkitchen.Text = "Kitchen";
+            this.lblkitchen.Click += new System.EventHandler(this.lblkitchen_Click);
             // 
             // lblsetting
             // 
@@ -80,6 +82,7 @@
             this.lblsetting.Size = new System.Drawing.Size(110, 20);
             this.lblsetting.TabIndex = 55;
             this.lblsetting.Text = "User Setting";
+            this.lblsetting.Click += new System.EventHandler(this.lblsetting_Click);
             // 
             // lblitemout
             // 
@@ -92,6 +95,7 @@
             this.lblitemout.Size = new System.Drawing.Size(76, 20);
             this.lblitemout.TabIndex = 54;
             this.lblitemout.Text = "Item out";
+            this.lblitemout.Click += new System.EventHandler(this.lblitemout_Click);
             // 
             // lblitemin
             // 
@@ -104,6 +108,7 @@
             this.lblitemin.Size = new System.Drawing.Size(64, 20);
             this.lblitemin.TabIndex = 53;
             this.lblitemin.Text = "Item in";
+            this.lblitemin.Click += new System.EventHandler(this.lblitemin_Click);
             // 
             // lblout
             // 
@@ -154,6 +159,7 @@
             this.lbldashboard.Size = new System.Drawing.Size(97, 20);
             this.lbldashboard.TabIndex = 49;
             this.lbldashboard.Text = "Dashboard";
+            this.lbldashboard.Click += new System.EventHandler(this.lbldashboard_Click);
             // 
             // lblbars
             // 
@@ -166,6 +172,7 @@
             this.lblbars.Size = new System.Drawing.Size(133, 13);
             this.lblbars.TabIndex = 48;
             this.lblbars.Text = "Manage your invetory here";
+            this.lblbars.Click += new System.EventHandler(this.lblbars_Click);
             // 
             // lblkitchens
             // 
@@ -178,6 +185,7 @@
             this.lblkitchens.Size = new System.Drawing.Size(133, 13);
             this.lblkitchens.TabIndex = 47;
             this.lblkitchens.Text = "Manage your invetory here";
+            this.lblkitchens.Click += new System.EventHandler(this.lblkitchens_Click);
             // 
             // lblservices
             // 

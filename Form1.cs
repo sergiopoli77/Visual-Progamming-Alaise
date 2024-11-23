@@ -28,6 +28,23 @@ namespace Vispro_Final_Project___ALAISE
             InitializeComponent();
         }
 
+        private void txtusername_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtpassword_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblpassword_Click(object sender, EventArgs e)
+        {
+            forgetpassword forgetPassword = new forgetpassword();
+            forgetPassword.Show();
+            this.Hide();
+        }
+
         private void btnlogin_Click(object sender, EventArgs e)
         {
             try
@@ -54,14 +71,14 @@ namespace Vispro_Final_Project___ALAISE
                         }
                         else
                         {
-                            MessageBox.Show("Anda salah input password");
+                            MessageBox.Show("You entered the wrong password");
                         }
                     }
 
                 }
                 else
                 {
-                    MessageBox.Show("Username tidak ditemukan");
+                    MessageBox.Show("Username not found");
                 }
             }
             catch (Exception ex)
